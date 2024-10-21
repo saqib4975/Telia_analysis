@@ -431,3 +431,7 @@
 [2024-10-21T04:30:33.374+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
 [2024-10-21T04:35:33.397+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
 [2024-10-21T04:35:33.457+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-10-21T04:40:34.048+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-10-21T04:40:34.090+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
+[2024-10-21T04:45:34.259+0000] {manager.py:737} INFO - Searching for files in /opt/airflow/dags
+[2024-10-21T04:45:34.316+0000] {manager.py:740} INFO - There are 0 files in /opt/airflow/dags
